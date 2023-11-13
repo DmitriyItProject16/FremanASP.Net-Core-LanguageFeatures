@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0i2+/o6LUZ7JG5hjhsntehFk/weiGEamp0PcuNhMnQCLyA+IK/58libd4MP1lvatvyx/WhMsFpfXWHs2rVPHhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DS_Starkov\\Desktop\\projects\\FremanASP.Net-Core-LanguageFeatures\\LanguageFeatures.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Вы выполняете операцию ''restore'' с источником ''HTTP'', ''http://ake-dashboard.ake.ru:26000/v3/index.json''. Доступ без HTTPS будет удален в будущей версии. Рассмотрите возможность перехода на источник ''HTTPS''."
+    }
+  ]
+}
